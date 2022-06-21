@@ -1,0 +1,17 @@
+from pickletools import string1
+import sqlite3
+
+
+condtional flow of execution
+1.if statement
+2.if-else
+3.if-elif-else
+4.nested if
+
+1. if statement
+sytax:
+if(condition):
+    st1 
+    st2
+st3 
+st4 
